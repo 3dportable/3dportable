@@ -1,2 +1,2 @@
-# secret-weapon-ussr2
-Config files for my GitHub profile.
+Если ты тут случайно, просто проходи мимо. 
+Здесь нет ничего интересного.
